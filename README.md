@@ -43,15 +43,6 @@ console.log("Olá, mundo. Ryumargin está no controle... 🦆");
 
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ryumargin&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Ryumargin's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryumargin&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 🕶️ Contato Secreto
 
 - 📧 Discord: `ryumargin`
