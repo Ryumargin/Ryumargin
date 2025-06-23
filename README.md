@@ -47,7 +47,8 @@ console.log("Olá, mundo. Ryumargin está no controle... 🦆");
 
 - 📧 Discord: `ryumargin`
 - 🕳️ Repositórios misteriosos: [github.com/Ryumargin](https://github.com/Ryumargin)
-
+- 📧 Entre em conta com meu Gmail:  yurijoga95@gmail.com
+ 
 ---
 
 <p align="center">
