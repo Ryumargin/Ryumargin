@@ -44,10 +44,6 @@
 </tr>
 </table>
 
-</br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocando agora no Spotify">
-</a>
 ---
 
 ## :bulb: Languages & Frameworks I Code In
