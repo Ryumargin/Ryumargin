@@ -1,46 +1,71 @@
-<!-- HEADER ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A073FF&center=true&vCenter=true&width=800&lines=Ryumargin+%7C+Code+Architect+of+the+Night;Precision%2C+Power%2C+and+Control;Mastering+Code+in+the+Shadows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A073FF&center=true&vCenter=true&width=800&lines=Ryumargin+%7C+Full+Stack+Developer;Automation+and+Creative+Scripting;Mastering+Code+in+the+Shadows" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryumargin&label=Visitors&color=A073FF&style=flat-square" alt="Profile visitor" />
+  <img src="https://komarev.com/ghpvc/?username=Ryumargin&label=Profile+Views&color=A073FF&style=flat-square" alt="Profile visitor" />
 </div>
 
 ---
 
-<!-- FRASE DE IMPACTO -->
-<p align="center">
-  <b><i>"In the silence of the night, my code speaks louder than words."</i></b>
-</p>
-
----
-
-<!-- SOBRE MIM -->
 ## 🧠 About Me
-
-- 🖥️ Known as **Ryumargin**, also known as the **Duck in the Shadows**.
-- ⚙️ Specializing in **automation**, **front-end engineering**, and **creative scripting**.
-- 🎮 Experienced in **game modding** and unconventional software projects.
-- 🧪 Passionate about **ethical bug hunting** and reverse engineering.
-- 🌑 I work best when the world is asleep.
-
----
-
-<!-- SKILLS -->
-## 💼 Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,git,github,vscode,figma,docker" alt="My Skills" />
-  </a>
-</p>
+- 🖥️ Known as **Ryumargin** — a developer who thrives in the quiet hours of the night.
+- ⚙️ Specializing in **front-end**, **automation**, and **creative scripting**.
+- 🎮 Experienced in **modding** and **unconventional projects**.
+- 🧪 Ethical bug hunter and reverse engineering enthusiast.
+- 🌑 "When the world sleeps, I build."
 
 ---
 
-<!-- ESTATÍSTICAS -->
+## :notes: Now Playing
+🎶 **Now playing on Spotify**  
+<a href="https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"><b>Kali Uchis - After The Storm (ft. Tyler, The Creator, Bootsy Collins)</b></a>  
+<a href="https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"><b>Tyler, The Creator - See You Again (feat. Kali Uchis)</b></a>  
+
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
+  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" >
+</a>
+
+---
+
+## :bulb: Languages & Frameworks I Code In
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+
+<sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+
+---
+
+## :hammer_and_wrench: Things That Help Me Get My Code Done
+<code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code><img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+
+</br></br>
+<details>
+<summary>Click here for a cute surprise! :3</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
+
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Ryumargin">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryumargin&theme=radical&border=A073FF&background=0D1117" alt="GitHub streak"/>
@@ -63,24 +88,21 @@
 
 ---
 
-<!-- CONTATO -->
-## 🕶️ Contact
+## :star: My Favorite GitHub Repos
+See <a href="https://github.com/Ryumargin?tab=stars">here</a> a list of awesome repositories I've starred! The list updates daily.
 
-- 📧 Discord: `ryumargin`
-- 📂 Repositories: [github.com/Ryumargin](https://github.com/Ryumargin)
-- 📬 Email: **yurijoga95@gmail.com**
+<img alt="github contribution snake animation" src="https://github.com/Ryumargin/Ryumargin/blob/output/github-contribution-grid-snake.svg">
 
 ---
 
-<!-- RODAPÉ -->
+## :book: Guestbook
+Leave a cool message for me or just say you passed by <a href="https://github.com/Ryumargin/Ryumargin/issues/new?template=guestbook-entry.md">here</a>!  
+Or ask me anything at <a href="https://github.com/Ryumargin/Ryumargin/discussions/new/choose">Discussions</a>!
+
 <div align="center">
-  <img src="https://media.tenor.com/Chjt8N5P7E0AAAAC/pato-duck.gif" width="120"/>
-  <br>
-  <i>“Let the Duck guide you through the darkness.”</i>
+    <a href="https://git.io/typing-svg">
+        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=A073FF&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
 </div>
 
----
-
-<p align="center">
-  <b>Made with discipline and precision, in the calm hours of the night.</b>
-</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=A073FF&style=flat&logo" alt="back to top" /></a></p>
