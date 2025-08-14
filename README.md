@@ -17,14 +17,14 @@
 
 ---
 
-## :notes: Now Playing
-🎶 **Now playing on Spotify**
+## :notes: Tocando Agora
+🎶 **No Spotify neste momento**
 
 <table>
 <tr>
 <td>
 <a href="https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc">
-  <img src="https://i.scdn.co/image/ab67616d0000b27351fd064d1a3f5c17a47e5e62" width="100" alt="After The Storm">
+  <img src="https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053" width="100" alt="After The Storm">
 </a>
 </td>
 <td>
@@ -35,7 +35,7 @@
 <tr>
 <td>
 <a href="https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9d1656f6a56a80a3b88d10e" width="100" alt="See You Again">
+  <img src="https://cdn-images.dzcdn.net/images/cover/a7a16b8f63b1ec0e9fbd327619966737/500x500-000000-80-0-0.jpg" width="100" alt="See You Again">
 </a>
 </td>
 <td>
@@ -46,9 +46,8 @@
 
 </br>
 <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify">
+  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocando agora no Spotify">
 </a>
-
 ---
 
 ## :bulb: Languages & Frameworks I Code In
