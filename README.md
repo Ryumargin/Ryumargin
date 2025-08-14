@@ -18,7 +18,7 @@
 ---
 
 ## 🎶 Músicas que Estou Ouvindo
-**No Spotify agora mesmo**  
+**No Spotify**  
 
 <table>
 <tr>
@@ -43,11 +43,6 @@
 </td>
 </tr>
 </table>
-
-</br>
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocando agora no Spotify" style="border-radius: 15px; box-shadow: 0 0 15px #A073FF;">
-</a>
 
 ---
 
