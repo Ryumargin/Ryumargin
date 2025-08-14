@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,git,github,vscode,figma,docker,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,git,github,vscode,figma,docker" alt="My Skills" />
   </a>
 </p>
 
