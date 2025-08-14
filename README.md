@@ -18,13 +18,35 @@
 ---
 
 ## :notes: Now Playing
-🎶 **Now playing on Spotify**  
-<a href="https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"><b>Kali Uchis - After The Storm (ft. Tyler, The Creator, Bootsy Collins)</b></a>  
-<a href="https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"><b>Tyler, The Creator - See You Again (feat. Kali Uchis)</b></a>  
+🎶 **Now playing on Spotify**
+
+<table>
+<tr>
+<td>
+<a href="https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc">
+  <img src="https://i.scdn.co/image/ab67616d0000b27351fd064d1a3f5c17a47e5e62" width="100" alt="After The Storm">
+</a>
+</td>
+<td>
+<b>Kali Uchis - After The Storm (ft. Tyler, The Creator, Bootsy Collins)</b>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9d1656f6a56a80a3b88d10e" width="100" alt="See You Again">
+</a>
+</td>
+<td>
+<b>Tyler, The Creator - See You Again (feat. Kali Uchis)</b>
+</td>
+</tr>
+</table>
 
 </br>
 <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" >
+  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify">
 </a>
 
 ---
